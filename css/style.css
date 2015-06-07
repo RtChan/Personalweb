@@ -179,9 +179,10 @@ ul.wmuSliderPagination {
 	right: 0px;
 }
 .bannertop_box{
-	width:45%;
+	width:60%;
 	float:left;
-	padding:0 0 0 6.5em;
+	padding:0 0 0 15em;
+	margin-top: 1em;
 }
 .bannertop_box h1 {
 	color: #EDE8E0;
@@ -217,8 +218,12 @@ span.bold {
 
 .banner_right {
 	float: right;
-	width: 45%;
-	padding-right: 6em;
+	width: 40%;
+	/*padding-right: 6em;
+	padding-top: 1.5em;
+	padding-bottom: 1.5em;*/
+	padding: 0 3em 1.5em 0;
+	margin-top: 1.5em;
 }
 .banner_right h1{
 	color:#fff51f;
@@ -264,8 +269,8 @@ span.bold {
 .contact-section-p {
 	color: #FFFFFF;
 	font-size: 32px;
-	padding-left: 10%;
-	padding-right: 10%;
+	padding-left: 13%;
+	padding-right: 13%;
 }
 /* Add by Rt*/
 .contact-section-p a{
@@ -665,13 +670,16 @@ span.more a:hover{
 	.logo{
 		width: 11%;
 	} 
+	.top-menu{
+		width: 85%;
+	}
 	.bannertop_box{
-		width: 47%;
-		padding: 0 0 0 5em;
+		width: 60%;
+		padding: 0 0 0 12em;
 	}
 	.banner_right{
-		width: 47%;
-		padding-right: 5em;
+		width: 40%;
+		padding-right: 10em;
 	}
 	.bannertop_box h1{
 		font-size: 6em;
@@ -710,7 +718,7 @@ span.more a:hover{
 		font-size: 36px;
 	}
 	.about-section-middle-right-grid p {
-		font-size: 23px;
+		font-size: 29px;
 	}
 	.about-section-bottom-left-grid h4{
 		font-size: 36px;
