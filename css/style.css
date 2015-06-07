@@ -32,7 +32,7 @@ p{
 }
 .top-menu{
 	float:right;
-	padding-top: 2.2em;
+	padding-top: 0em;
 	width: 80%;		 
 }
 .top-menu ul{
@@ -259,6 +259,17 @@ span.bold {
 .clients-section-p {
 	color: #FFFFFF;
 	font-size: 32px;
+}
+/* Add by Rt*/
+.contact-section-p {
+	color: #FFFFFF;
+	font-size: 32px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+/* Add by Rt*/
+.contact-section-p a{
+	color: #FFFFFF;
 }
 .work-section-head h3{
 	font-weight: 900;
@@ -720,7 +731,10 @@ span.more a:hover{
 	}
 	/* Add by Rt*/
 	.clients-section-p {
-
+		font-size: 27px;
+	}
+	/* Add by Rt*/
+	.contact-section-p {
 		font-size: 27px;
 	}
 	.client-section-grid img{
@@ -796,7 +810,10 @@ span.more a:hover{
 	}
 	/* Add by Rt*/
 	.clients-section-p {
-		color: #FFFFFF;
+		font-size: 22px;
+	}
+	/* Add by Rt*/
+	.contact-section-p {
 		font-size: 22px;
 	}
 	.clients-section-head h3 {
@@ -979,7 +996,10 @@ span.more a:hover{
 	}
 	/* Add by Rt*/
 	.clients-section-p {
-		color: #FFFFFF;
+		font-size: 18px;
+	}
+	/* Add by Rt*/
+	.contact-section-p {
 		font-size: 18px;
 	}
 	.portfolio-wrapper{
@@ -1095,8 +1115,11 @@ span.more a:hover{
 	}
 	/* Add by Rt*/
 	.clients-section-p {
-		padding-right: 2em;
-		color: #FFFFFF;
+		/*padding-right: 2em;*/
+		font-size: 15px;
+	}
+	/* Add by Rt*/
+	.contact-section-p {
 		font-size: 15px;
 	}
 	.lightbox-target:target img {
