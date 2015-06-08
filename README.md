@@ -1,6 +1,6 @@
-**个人主页模板**
+**个人主页作业**
 
-Master分支下的文件为模板全部文件，gh-pages分支下为本人的网页文件。
+gh-pages分支下为本人的网页文件。
 
 感谢[w3layouts](http://w3layouts.com/ "http://w3layouts.com/")提供的免费模板！
 
